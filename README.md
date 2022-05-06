@@ -17,11 +17,11 @@ npm start
 ## 📷 Screenshots
 
 <div name="Screenshots" align="center">
-   <img width=100% src="screenshots/1.png" alt="s1"></a>
+   <img width=100% src="screenshots/1.PNG" alt="s1"></a>
    <hr>
-   <img width=100% src="screenshots/2.png" alt="s2"></a>
+   <img width=100% src="screenshots/2.PNG" alt="s2"></a>
    <hr>
-    <img width=100% src="screenshots/3.png" alt="s3"></a>
+    <img width=100% src="screenshots/3.PNG" alt="s3"></a>
    <hr>
-   <img width=100% src="screenshots/4.png" alt="s4"></a>
+   <img width=100% src="screenshots/4.PNG" alt="s4"></a>
 </div>
