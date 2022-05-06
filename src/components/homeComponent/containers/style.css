@@ -1,0 +1,8 @@
+text {
+  color: black;
+}
+.valid{
+    display: block;
+    text-align: left;
+    color: red;
+}
